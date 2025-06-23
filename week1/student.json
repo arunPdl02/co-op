@@ -1,0 +1,40 @@
+{
+    "students": [
+        {
+            "name": "Arun",
+            "classes": [
+                "python",
+                "json",
+                "pandas"
+            ],
+            "address": {
+                "city": "Vancouver",
+                "postal": "v6an8l"
+            }
+        },
+        {
+            "name": "Barun",
+            "classes": [
+                "marketing",
+                "communications",
+                "customer relations"
+            ],
+            "address": {
+                "city": "Pokhara",
+                "postal": "prk999"
+            }
+        },
+        {
+            "name": "Samikshya",
+            "classes": [
+                "Law",
+                "Economics",
+                "Immigration"
+            ],
+            "address": {
+                "city": "Smithers",
+                "postal": "smnit7"
+            }
+        }
+    ]
+}
