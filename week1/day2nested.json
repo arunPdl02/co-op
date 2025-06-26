@@ -1,0 +1,34 @@
+{
+    "Arun": {
+        "name": "Arun",
+        "courses": [
+            "Python",
+            "JSON",
+            "Pandas"
+        ]
+    },
+    "Barun": {
+        "name": "Barun",
+        "courses": [
+            "Marketing",
+            "Communication",
+            "Management"
+        ]
+    },
+    "Samikshya": {
+        "name": "Samikshya",
+        "courses": [
+            "Law",
+            "Economics",
+            "Immigration"
+        ]
+    },
+    "Christy": {
+        "name": "Christy",
+        "courses": [
+            "Physiology",
+            "Nero-disease",
+            "Pathology"
+        ]
+    }
+}
